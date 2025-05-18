@@ -1,0 +1,37 @@
+2025-05-18 17:00:46,983 [INFO] Generated and saved new Fernet key
+2025-05-18 17:00:46,990 [INFO] Starting Flask server
+2025-05-18 17:00:47,041 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.35:5000
+2025-05-18 17:00:47,041 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-18 17:04:23,165 [INFO] Loaded Fernet key from .env
+2025-05-18 17:04:23,173 [INFO] Starting Flask server with KEY: V0429G-GlyXHD2a6NfRCiRcAcFFbn7JvP9oe35kz6Sc=
+2025-05-18 17:04:23,197 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.35:5000
+2025-05-18 17:04:23,198 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-18 17:07:31,245 [INFO] Loaded Fernet key from .env
+2025-05-18 17:07:31,254 [INFO] Starting Flask server with KEY: V0429G-GlyXHD2a6NfRCiRcAcFFbn7JvP9oe35kz6Sc=
+2025-05-18 17:07:31,282 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.35:5000
+2025-05-18 17:07:31,282 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-18 17:07:40,598 [INFO] 192.168.2.35 - - [18/May/2025 17:07:40] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-18 17:08:20,220 [INFO] 127.0.0.1 - - [18/May/2025 17:08:20] "[31m[1mGET /activate HTTP/1.1[0m" 405 -
+2025-05-18 17:12:35,413 [INFO] Loaded Fernet key from .env
+2025-05-18 17:12:35,425 [INFO] Starting Flask server with KEY: V0429G-GlyXHD2a6NfRCiRcAcFFbn7JvP9oe35kz6Sc=
+2025-05-18 17:12:35,457 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.35:5000
+2025-05-18 17:12:35,458 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-18 17:52:46,389 [INFO] Loaded Fernet key from .env
+2025-05-18 17:52:46,394 [INFO] Starting Flask server with KEY: V0429G-GlyXHD2a6NfRCiRcAcFFbn7JvP9oe35kz6Sc=
+2025-05-18 17:52:46,428 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.35:5000
+2025-05-18 17:52:46,428 [INFO] [33mPress CTRL+C to quit[0m

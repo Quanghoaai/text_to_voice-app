@@ -1,0 +1,19 @@
+2025-05-18 17:52:12,924 [ERROR] Failed to initialize Fernet cipher: Fernet key must be 32 url-safe base64-encoded bytes.
+2025-05-18 17:52:49,867 [ERROR] Failed to initialize Fernet cipher: Fernet key must be 32 url-safe base64-encoded bytes.
+2025-05-18 17:53:19,074 [ERROR] Failed to initialize Fernet cipher: Fernet key must be 32 url-safe base64-encoded bytes.
+2025-05-18 17:53:43,882 [ERROR] Failed to initialize Fernet cipher: Fernet key must be 32 url-safe base64-encoded bytes.
+2025-05-18 17:54:23,049 [INFO] License file not found
+2025-05-18 17:54:23,050 [INFO] Initializing trial license
+2025-05-18 17:54:23,146 [INFO] License saved successfully
+2025-05-18 17:54:35,587 [INFO] Service started
+2025-05-18 17:54:50,390 [INFO] Pygame mixer initialized
+2025-05-18 17:54:56,266 [INFO] Tổng thời gian sử dụng: 0.34 phút
+Gói: TRIAL (N/A$)
+2025-05-18 17:54:57,544 [INFO] Pygame mixer cleaned up
+2025-05-18 18:03:31,843 [INFO] Initializing trial license
+2025-05-18 18:03:31,844 [INFO] License saved successfully
+2025-05-18 18:03:40,341 [INFO] Service started
+2025-05-18 18:04:00,696 [INFO] Pygame mixer initialized
+2025-05-18 18:05:15,694 [INFO] Tổng thời gian sử dụng: 1.59 phút
+Gói: TRIAL (N/A$)
+2025-05-18 18:05:16,932 [INFO] Pygame mixer cleaned up

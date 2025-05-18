@@ -1,0 +1,2 @@
+2025-05-18 18:05:16.899912: Tổng thời gian sử dụng: 1.59 phút
+Gói: TRIAL (N/A$)
